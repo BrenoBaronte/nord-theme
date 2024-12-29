@@ -8,7 +8,7 @@ The Nord Theme is designed to reduce eye strain with a soft, calming color palet
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.txt)
 
 ## How to add it to Visual Studio
 
